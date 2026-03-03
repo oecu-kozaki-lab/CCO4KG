@@ -10,6 +10,3 @@
 
 使用した画像<br>
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
-<a href="https://adaptation-platform.nies.go.jp/local/infographic/" target="_blank" rel="noopener noreferrer">
-  インフォグラフィック-イラストで適応策がわかる！
-</a>
