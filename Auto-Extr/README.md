@@ -7,3 +7,6 @@
 
 **プロンプト**<br>
 プロンプト.txt
+
+使用した画像<br>
+[インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
