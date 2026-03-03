@@ -5,4 +5,4 @@
 - [Webブラウザで閲覧（Hozo Ontology Viewer）](http://160.251.115.84/HozoWebXML/?file_name=CCO4KG.xml&tree_open=yes)  
 - [オントロジー構築の情報源として用いた文書](data)
 
-Auto-Extr：- [情報源から抽出したトリプルと手動で構築したオントロジー一覧](Auto-Extr)
+Auto-Extr：- [トリプルの自動抽出（プロンプト、入力画像、出力結果）](Auto-Extr)
