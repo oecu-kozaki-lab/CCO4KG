@@ -1,9 +1,9 @@
 **ファイル構成**<br>
 項目名<br>
-&nbsp;&nbsp;&nbsp;|---項目名-入力画像1.png（1枚目の入力画像）<br>
-&nbsp;&nbsp;&nbsp;|---項目名-入力画像2.png（2枚目の入力画像）<br>
-&nbsp;&nbsp;&nbsp;|---項目名出力結果.txt（自動抽出の結果）<br>
-&nbsp;&nbsp;&nbsp;|---項目名-手動構築結果.txt（手動で構築したオントロジー）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-入力画像1.png（1枚目の入力画像）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-入力画像2.png（2枚目の入力画像）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名出力結果.txt（自動抽出の結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-手動構築結果.txt（手動で構築したオントロジー）<br>
 
 **プロンプト**<br>
 プロンプト.txt
