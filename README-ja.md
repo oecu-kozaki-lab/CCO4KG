@@ -14,4 +14,4 @@ Manu-Const：<br>
 **<br>使用した資料<br>**
 ・平成6年渇水 琵琶湖・淀川水環境総合調査報告書<br>
 ・平成6年度琵琶湖の異常渇水の影響に関する調査研究報告書<br>
-・[インフォグラフィックで見る「気候変動の影響と適応策」](https://adaptation-platform.nies.go.jp/local/infographic/)<br>
+・[インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)<br>
