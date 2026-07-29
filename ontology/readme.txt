@@ -1,2 +1,1 @@
-Ontology
 Manually constructed ontology
