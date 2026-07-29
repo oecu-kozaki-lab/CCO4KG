@@ -1,1 +1,1 @@
-Materials used for ontology construction.
+summary document (Materials used for ontology construction).
