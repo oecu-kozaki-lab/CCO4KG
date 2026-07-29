@@ -14,12 +14,12 @@ initial_prompt.txt（手動構築と自動抽出の比較評価に用いたプ�
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
 
 **項目名の翻訳**<br>
-・Fisheries_Adaptation → 水産業の適応
-・Heat_Island → ヒートアイランド
-・Inland_Fisheries → 内水面漁業
-・JapaneseDeer → ニホンジカ
-・Lakes_and_Their_Watersheds → 湖沼とその流域
-・Mortality_Risks_and_Heatstroke → 死亡リスク等・熱中症等
-・Rice_Paddies → 水稲
-・Snow_Leisure → 雪上レジャー
-・Strong_Winds → 強風等
+・Fisheries_Adaptation → 水産業の適応<br>
+・Heat_Island → ヒートアイランド<br>
+・Inland_Fisheries → 内水面漁業<br>
+・JapaneseDeer → ニホンジカ<br>
+・Lakes_and_Their_Watersheds → 湖沼とその流域<br>
+・Mortality_Risks_and_Heatstroke → 死亡リスク等・熱中症等<br>
+・Rice_Paddies → 水稲<br>
+・Snow_Leisure → 雪上レジャー<br>
+・Strong_Winds → 強風等<br>
