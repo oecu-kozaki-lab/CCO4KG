@@ -9,12 +9,13 @@ This repository provides public access to the Climate Change Ontology.
 
 **File Details**<br>
 Auto-Extr: Automatically Extracted Triples<br>
-|---Revised_Prompt (for evaluating the consistency between the extracted triples and the source materials)<br>
-|---Initial_Prompt (for comparing manual ontology construction with automatic triple extraction)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Revised_Prompt (Evaluation Method for Consistency with the Source Materials)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Initial_Prompt (Comparison Method Between Manually Constructed and Automatically
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extracted Triples)<br>
 
 Manu-Const: Manual Construction of the Climate Change Ontology<br>
-|---ontology (manually constructed ontology)<br>
-|---summary-document (manually created summary documents)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---ontology (manually constructed ontology)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---summary-document (manually created summary documents)<br>
 
 **Source Materials**
 - Report on the Comprehensive Survey of the Water Environment of Lake Biwa and the Yodo River during the 1994 Drought<br>
