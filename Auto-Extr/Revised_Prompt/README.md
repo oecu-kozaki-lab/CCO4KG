@@ -3,9 +3,10 @@
 **ファイル構成**<br>
 項目名<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-OCR_result.txt（インフォグラフィック画像のOCR結果）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output.txt（出力）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output.txt（出力結果）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.tsv（出力されたトリプルのtsv形式）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力されたトリプルのxlsx形式）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力された概要文書）<br>
 
 **プロンプト**<br>
 initial_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
