@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|---Manual_Construct_results.txt（手動で構築したオントロジー）<br>
 
 **プロンプト**<br>
-initial_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
+initial_prompt.txt（修正前のプロンプト）
 
 **使用した画像**<br>
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
