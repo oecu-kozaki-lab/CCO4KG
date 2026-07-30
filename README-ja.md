@@ -7,7 +7,7 @@
   
 **<br>ファイルの詳細<br>**
 Auto-Extr：トリプルの自動抽出
-|---Revised_Prompt（）
+|---Revised_Prompt（抽出されたトリプルと抽出元資料との整合性評価用）
 |---initial_Prompt（）
 <br>
 Manu-Const：気候変動オントロジーの手動構築
