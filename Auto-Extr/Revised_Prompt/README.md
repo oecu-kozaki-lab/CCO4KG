@@ -2,11 +2,11 @@
 
 **ファイル構成**<br>
 項目名<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output.txt（インフォグラフィック画像のOCR結果、概要文書の生成結果、トリプルの出力結果）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-OCR_result.txt（インフォグラフィック画像のOCR生成結果）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力された概要文書）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.tsv（出力されたトリプルのtsv形式）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力されたトリプルのxlsx形式）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Output.txt（画像のOCR結果、概要文書の生成結果、トリプルの出力結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---OCR_result.txt（インフォグラフィック画像のOCR生成結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Output_.xlsx（出力された概要文書）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Output_triples.tsv（出力されたトリプルのtsv形式）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Output_triples.xlsx（出力されたトリプルのxlsx形式）<br>
 
 **プロンプト**<br>
 Revised_prompt.txt（抽出されたトリプルと元資料との整合性評価に用いたプロンプト）
