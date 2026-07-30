@@ -1,4 +1,4 @@
-# Comparison Between Manual Construction and Automatic Triple Extraction
+# Comparison Method Between Manually Constructed and Automatically Extracted Triples
 
 **Automatically extracted triples for each infographic topic**
 
