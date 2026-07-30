@@ -2,11 +2,11 @@
 
 **ファイル構成**<br>
 項目名<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output.txt（OCR結果、概要文書、トリプルの出力結果）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-OCR_result.txt（インフォグラフィック画像のOCR結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output.txt（インフォグラフィック画像のOCR結果、概要文書の生成結果、トリプルの出力結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-OCR_result.txt（インフォグラフィック画像のOCR生成結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力された概要文書）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.tsv（出力されたトリプルのtsv形式）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力されたトリプルのxlsx形式）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力された概要文書）<br>
 
 **プロンプト**<br>
 Revised_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
