@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力されたトリプルのxlsx形式）<br>
 
 **プロンプト**<br>
-Revised_prompt.txt（抽出されたトリプルと元資料の整合性評価に用いたプロンプト）
+Revised_prompt.txt（抽出されたトリプルと元資料との整合性評価に用いたプロンプト）
 
 **使用した画像の元資料**<br>
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
