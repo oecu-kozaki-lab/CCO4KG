@@ -9,10 +9,12 @@ This repository provides public access to the Climate Change Ontology.
 
 **File Details**<br>
 Auto-Extr:<br>
-Automatic triple extraction (prompts, input images, and output results)<br> <br>
+Automatic triple extraction (prompts, input images, and output results)<br>
+
 Manu-Const:<br>
 Manual construction of the Climate Change Ontology (summary documents and constructed ontology)
-**Source Materials**<br>
+
+**Source Materials**
 - Report on the Comprehensive Survey of the Water Environment of Lake Biwa and the Yodo River during the 1994 Drought<br>
 - Research Report on the Impacts of the Abnormal Drought in Lake Biwa in Fiscal Year 1994<br>
 - [Infographics: Learn About Adaptation Measures Through Illustrations](https://adaptation-platform.nies.go.jp/local/infographic/)<br>
