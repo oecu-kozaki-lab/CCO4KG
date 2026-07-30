@@ -2,7 +2,7 @@
 気候変動オントロジーの公開用レポジトリです 
 - [オントロジーのファイル（法造XML形式）](ontology/CCO4KG.xml)  
 ※閲覧には[「法造」](https://hozo.jp)が必要です．  
-- [Webブラウザで閲覧（Hozo Ontology Viewer）](http://160.251.115.84/HozoWebXML/?file_name=CCO4KG.xml&tree_open=yes)  <br>
+- [Webブラウザで閲覧（Hozo Ontology Viewer）](http://160.251.115.84/HozoWebXML/?file_name=CCO4KG.xml&tree_open=yes) 
 - 簡易オンライン議論支援システム（準備中）  
 **<br>ファイルの詳細<br>**
 Auto-Extr：<br>
