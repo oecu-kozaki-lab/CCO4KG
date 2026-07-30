@@ -1,12 +1,25 @@
+**インフォグラフィック資料における各項目からのトリプル自動抽出結果**
+
 **ファイル構成**<br>
 項目名<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-入力画像1.png（1枚目の入力画像）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-入力画像2.png（2枚目の入力画像）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-出力結果.txt（自動抽出の結果）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-手動構築結果.txt（手動で構築したオントロジー）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Input_image1.png（1枚目の入力画像）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Input_image2.png（2枚目の入力画像）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_results.txt（自動抽出の結果）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Manual_Construct_results.txt（手動で構築したオントロジー）<br>
 
 **プロンプト**<br>
-プロンプト.txt
+initial_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
 
 **使用した画像**<br>
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
+
+**項目名の翻訳**<br>
+・Fisheries_Adaptation → 水産業の適応<br>
+・Heat_Island → ヒートアイランド<br>
+・Inland_Fisheries → 内水面漁業<br>
+・JapaneseDeer → ニホンジカ<br>
+・Lakes_and_Their_Watersheds → 湖沼とその流域<br>
+・Mortality_Risks_and_Heatstroke → 死亡リスク等・熱中症等<br>
+・Rice_Paddies → 水稲<br>
+・Snow_Leisure → 雪上レジャー<br>
+・Strong_Winds → 強風等<br>
