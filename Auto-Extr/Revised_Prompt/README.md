@@ -9,9 +9,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|---項目名-Output_triples.xlsx（出力された概要文書）<br>
 
 **プロンプト**<br>
-initial_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
+Revised_prompt.txt（手動構築と自動抽出の比較評価に用いたプロンプト）
 
-**使用した画像**<br>
+**使用した画像の元資料**<br>
 [インフォグラフィック-イラストで適応策がわかる！](https://adaptation-platform.nies.go.jp/local/infographic/)
 
 **項目名の翻訳**<br>
