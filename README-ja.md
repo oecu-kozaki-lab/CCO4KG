@@ -6,13 +6,13 @@
 - 簡易版オンライン議論支援システム（準備中）
   
 **<br>ファイルの詳細<br>**
-Auto-Extr：トリプルの自動抽出
-|---Revised_Prompt（抽出されたトリプルと抽出元資料の整合性評価用）
-|---initial_Prompt（）
+Auto-Extr：トリプルの自動抽出<br>
+|---Revised_Prompt（抽出されたトリプルと抽出元資料の整合性評価用）<br>
+|---initial_Prompt（手動構築と自動抽出の比較評価用）<br>
 <br>
-Manu-Const：気候変動オントロジーの手動構築
-|---ontology（手動構築したオントロジー）
-|---summary-document（手動で作成した概要文書）
+Manu-Const：気候変動オントロジーの手動構築<br>
+|---ontology（手動構築したオントロジー）<br>
+|---summary-document（手動で作成した概要文書）<br>
 
 **<br>使用した資料<br>**
 ・平成6年渇水 琵琶湖・淀川水環境総合調査報告書<br>
