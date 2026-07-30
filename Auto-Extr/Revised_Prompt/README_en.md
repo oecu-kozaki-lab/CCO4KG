@@ -1,4 +1,4 @@
-# Evaluation of Consistency Between Extracted Triples and Source Materials
+# Evaluation Method for Consistency with the Source Materials
 
 **Automatic Triple Extraction Results for Each Topic in the Infographic Materials**
 
