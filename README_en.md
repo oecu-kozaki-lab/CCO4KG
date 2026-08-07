@@ -5,7 +5,7 @@ This repository provides public access to the Climate Change Ontology.
 - [Ontology file (Hozo XML format)](ontology/CCO4KG.xml)<br>
   ※ [Hozo](https://hozo.jp) is required to view this file.
 - [View in a web browser (Hozo Ontology Viewer)](http://160.251.115.84/HozoWebXML/?file_name=CCO4KG.xml&tree_open=yes)
-- Simplified online discussion support system (under preparation)
+- [Simplified online discussion support system](https://hozo.jp/board/ijckg2026demo.html)
 
 **File Details**<br>
 Auto-Extr: Automatically Extracted Triples<br>
