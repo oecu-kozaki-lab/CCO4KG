@@ -25,36 +25,36 @@ Revised_prompt.txt（修正後のプロンプト）
 ・DebrisFlowsAndLandslides → 土石流・地すべり等<br>
 ・ExpansionOfBambooForests → 竹林の拡大<br>
 ・ExpansionOfProductionAreas → 産地の拡大<br>
-・FisheriesAdaptation → 水産業の適応<br>
+・FisheriesAdaptation → 水産業の適応　**※ 手動構築済み**<br>　
 ・Floods → 洪水<br>
 ・Floriculture → 花き<br>
 ・FoodSupplyAndDemand → 食料需給<br>
 ・Grapes → ブドウ<br>
 ・Groundwater → 地下水<br>
-・HeatIsland → ヒートアイランド現象<br>
-・InlandFisheries → 内水面漁業<br>
+・HeatIsland → ヒートアイランド現象　**※ 手動構築済み**<br>
+・InlandFisheries → 内水面漁業　**※ 手動構築済み**<br>
 ・InlandFlooding → 内水<br>
 ・InvasiveAlienAnts → 侵略的外来アリ<br>
 ・JapaneseCedarPlantations → スギ人工林<br>
-・JapaneseDeer → ニホンジカ<br>
+・JapaneseDeer → ニホンジカ　**※ 手動構築済み**<br>
 ・JapanesePear → ニホンナシ<br>
-・LakesAndTheirWatersheds → 湖沼とその流域<br>
+・LakesAndTheirWatersheds → 湖沼とその流域　**※ 手動構築済み**<br>
 ・Livestock → 畜産<br>
-・MortalityRiskAndHeatstroke → 死亡リスク等-熱中症等<br>
+・MortalityRiskAndHeatstroke → 死亡リスク等-熱中症等　**※ 手動構築済み**<br>
 ・MosquitoBorneInfectiousDiseases → 蚊媒介感染症<br>
 ・PestsAndDiseases → 病害虫<br>
 ・PineWiltDisease → マツ材線虫病<br>
 ・RedSeaBreamAquaculture → マダイ養殖<br>
-・RicePaddies → 水稲<br>
+・RicePaddies → 水稲　**※ 手動構築済み**<br>
 ・RoadTransportation → 道路交通<br>
 ・Scallops → ホタテガイ<br>
 ・SeagrassBeds → 藻場<br>
 ・SeaweedAquaculture → 海藻養殖<br>
 ・ShiitakeLogCultivation → シイタケ原木栽培<br>
-・SnowLeisure → 雪上レジャー<br>
+・SnowLeisure → 雪上レジャー　**※ 手動構築済み**<br>
 ・Soybean → 大豆<br>
 ・StormSurgesAndHighWaves → 高潮・高波<br>
-・StrongWinds → 強風等<br>
+・StrongWinds → 強風等　**※ 手動構築済み**<br>
 ・SubwaySystems → 地下鉄<br>
 ・Tea → 茶<br>
 ・TickBorneInfectiousDiseases → ダニ媒介感染症<br>
