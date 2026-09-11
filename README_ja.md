@@ -7,8 +7,8 @@
   
 **<br>ファイルの詳細<br>**
 Auto-Extr：自動抽出したトリプル<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---Revised_Prompt（抽出されたトリプルと抽出元資料の整合性評価用）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---initial_Prompt（手動構築と自動抽出の比較評価用）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Revised_Prompt（949トリプル評価の際に用いたプロンプト）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---initial_Prompt（IJCKG2026用：抽出されたトリプルと抽出元資料の整合性評価用および手動構築と自動抽出の比較評価用）<br>
 <br>
 Manu-Const：気候変動オントロジーの手動構築<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---ontology（手動構築したオントロジー）<br>
