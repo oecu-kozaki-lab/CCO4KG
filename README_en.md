@@ -9,9 +9,8 @@ This repository provides public access to the Climate Change Ontology.
 
 **File Details**<br>
 Auto-Extr: Automatically Extracted Triples<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---Revised_Prompt (Evaluation Method for Consistency with the Source Materials)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|---Initial_Prompt (Comparison Method Between Manually Constructed and Automatically
-Extracted Triples)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Revised_Prompt (IJCKG2026: 5.1section and 5.2section)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|---Initial_Prompt ()<br>
 
 Manu-Const: Manual Construction of the Climate Change Ontology<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|---ontology (manually constructed ontology)<br>
